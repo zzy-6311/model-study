@@ -28,4 +28,3 @@ print(squared_error)
 
 loss = squared_error.mean() # 这个就是现在这个模型的误差，.mean()就是均分误差求平均
 print(loss)
-
